@@ -1,7 +1,3 @@
-Certainly! Here's a reimagined version of the shop information tailored for a graphic design freelance business named "croftmvn":
-
----
-
 **Graphic Designer:**
 **croftmvn** (Specializing in modern and minimalistic design)
 
@@ -67,8 +63,4 @@ New Client Special: 10% off your first logo design project (Valid until 31st Dec
 
 **Note:**
 - All designs are created with a focus on client collaboration and satisfaction.
-- For any project inquiries or issues, please reach out via the contact number provided.
-
----
-
-Feel free to adjust any of the details to better fit your specific business needs. If you need further customization or additional content, just let me know!
+- For any project inquiries or issues, please reach out via the bot chat.
